@@ -7,7 +7,7 @@ import faiss
 from langchain.llms.base import LLM
 from langchain.prompts import PromptTemplate
 from langchain.chains import LLMChain
-
+from .config import api_key
 # 1. Load and split PDF into chunks
 pdf_path = "test.pdf"
 loader = PyPDFLoader(pdf_path)
@@ -99,7 +99,7 @@ def answer_question(question: str, top_k: int = 3) -> str:
     context = build_context(retrieved)
 
     llm = OpenRouterLLM(
-        api_key="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"
+        api_key=api_key
     )
     chain = LLMChain(llm=llm, prompt=prompt)
     return chain.run(summaries=context, question=question)
@@ -134,7 +134,7 @@ class TranslateLLM(LLM):
 
 
 def translate_fa2en(text):
-    llm = TranslateLLM(api_key="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", model_name="deepseek/deepseek-r1-0528:free")
+    llm = TranslateLLM(api_key=api_key, model_name="deepseek/deepseek-r1-0528:free")
 
     prompt = f"""Translate the following Persian text to English. Only output the English translation, with no extra explanation.
 
@@ -146,7 +146,7 @@ def translate_fa2en(text):
     return response.strip()
 
 def translate_en2fa(text):
-    llm = TranslateLLM(api_key="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", model_name="deepseek/deepseek-r1-0528:free")
+    llm = TranslateLLM(api_key=api_key, model_name="deepseek/deepseek-r1-0528:free")
 
     prompt = f"""Translate the following English text to Persian. Only output the Persian translation, with no extra explanation.
 
