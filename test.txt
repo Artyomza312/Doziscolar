@@ -1,0 +1,126 @@
+🔹 Section 1: Key Concepts & Definitions
+What is meant by "sustainable engineering" in the context of mechanical engineering?
+
+How is "additive manufacturing" defined in the paper, and what are its primary benefits?
+
+What distinguishes collaborative robots (cobots) from traditional industrial robots?
+
+How does AI-driven generative design work according to the paper? explain more
+
+What are digital twins and how are they applied in mechanical engineering? explain more  NONE
+
+Why is predictive maintenance important, and how is AI used in it? explain more
+
+What role does the Industrial Internet of Things (IIoT) play in modern mechanical engineering? eplain more
+
+How do additive manufacturing and traditional subtractive methods differ in terms of resource usage? explain more  NONE
+
+How has AI enhanced computer-aided design (CAD) tools? you can explain more
+
+How does AI contribute to energy optimization in manufacturing? explain fully
+
+🔹 Section 2: Technology Analysis
+Which technologies are identified as transformative for mechanical engineering? explain fully
+
+How does the integration of AI, IIoT, and additive manufacturing improve industrial performance? explain fully
+
+What types of data are utilized in predictive maintenance systems? explain fully NONE
+
+How is CAD automation evolving with AI integration? explain fully, you can explain more
+
+What material advancements have expanded the scope of 3D printing?  explain fully
+
+How do new technologies contribute to waste reduction in manufacturing? explain fully
+
+What are the environmental differences between traditional and modern production techniques? explain fully
+
+What impact do collaborative robots have on industrial safety? explain fully
+
+What are the primary barriers to the adoption of advanced technologies? explain fully
+
+In what ways does AI assist decision-making in engineering design? explain fully
+
+🔹 Section 3: Data & Table Analysis
+Which company experienced the highest efficiency improvement after technology adoption? explain fully
+
+Which company showed the least sustainability improvement, and what might be the reasons? explain fully
+
+How did Company C’s cost savings and efficiency change after adopting new technologies? explain fully
+
+How can the trends in Tables 2 to 6 be interpreted in terms of performance improvement? explain fully
+
+To what extent did the technologies simultaneously enhance both efficiency and sustainability? explain fully
+
+Despite high cost savings, why did Company B achieve low sustainability impact? explain fully
+
+What percentage of companies achieved 30% or higher sustainability improvement? explain fully
+
+What patterns can be observed in the efficiency vs. cost savings charts? explain fully
+
+How did technology adoption affect Company E's overall performance? explain fully
+
+What insights does Table 5 offer regarding organizational sustainability shifts? explain fully
+
+🔹 Section 4: Challenges & Barriers
+What challenges do small and medium-sized enterprises (SMEs) face in adopting new technologies? explain fully
+
+How is cybersecurity addressed in the context of IIoT and connected systems? explain fully
+
+How does the skills gap affect technology implementation in mechanical engineering?
+
+What solutions does the paper propose to overcome adoption challenges?
+
+What role do educational programs play in bridging the technical skills gap?
+
+How does the paper address the issue of high initial costs of technology?
+
+What cultural or organizational barriers might hinder innovation adoption?
+
+How does company size correlate with technology utilization levels?
+
+How are system integration complexities described in the paper?
+
+What solutions are suggested for data scarcity in AI implementation?
+
+🔹 Section 5: Research Methods & Design
+What research design is used in the paper and why is it appropriate?
+
+How were secondary data sources selected for analysis?
+
+What is the role of case studies in this research?
+
+What were the criteria for selecting companies in the data analysis section?
+
+What types of sources were used for secondary data collection?
+
+Why was a mixed-methods approach (qualitative + quantitative) chosen?
+
+How were operational metrics like efficiency and cost savings assessed?
+
+Why is the combination of exploratory and analytical design significant?
+
+What indicators were used to evaluate sustainability in the case studies?
+
+What are the strengths and weaknesses of the research methodology?
+
+🔹 Section 6: Findings & Future Outlook
+What evidence supports the claim that technology adoption improves efficiency?
+
+What strategic recommendations does the paper offer for the future of mechanical engineering?
+
+What trends are predicted for the development of machinery and equipment?
+
+Why is combining multiple technologies (AI, automation, AM) more effective than using them separately?
+
+What long-term financial impacts are highlighted in the study?
+
+How are AI and digital twins expected to shape future engineering practices?
+
+How is the environmental impact of engineering expected to evolve?
+
+Why did Company B show lower sustainability gains despite strong cost savings?
+
+What are the expected roles of SMEs in future technological transformation?
+
+What conclusions are drawn about the strategic importance of sustainable manufacturing?
+
