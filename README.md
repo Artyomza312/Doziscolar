@@ -59,15 +59,19 @@ Best-in-class Farsi support
 
 ---
 ## Roadmap
+
  English/Persian PDF QA
  Telegram & Android bot
  Web UI
  Support for DOCX/HTML
  Answer evaluation metrics
+ 
 ---
 ## Contributing
-Pull requests are welcome!
-Want to add a feature or connect a new API? Open an issue or PR.
+
+ Pull requests are welcome!
+ Want to add a feature or connect a new API? Open an issue or PR.
+ 
 ---
 Developed by [Amirmahdi Ebrahimi]
 
