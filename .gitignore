@@ -2,6 +2,10 @@ venv/
 .venv/
 env/
 
+myenv
+
+.idea
+
 __pycache__/
 *.pyc
 *.pyo

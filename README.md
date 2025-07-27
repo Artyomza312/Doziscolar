@@ -42,12 +42,12 @@ On first run, you will be prompted for:
 - **Model name** (e.g. `openrouter/cypher-alpha:free`)
 - **API URL**
 
-Or edit them in `config.yaml` for easier use.
+Or edit them in `config.py` for easier use.
 
 **Run:**
 
 ```bash
-python3 main.py
+python3 Sin.py
 ```
 ---
 ## Why DoziScholar?
